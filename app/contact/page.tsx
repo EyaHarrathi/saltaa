@@ -87,18 +87,18 @@ export default function ContactPage() {
                   </h6>
                   <div className="d-flex flex-column gap-2">
                     <a
-                      href="tel:21804277"
+                      href="tel:27780421"
                       className="btn btn-outline-danger btn-sm text-start"
                     >
                       <i className="fas fa-phone me-2"></i>
-                      21 804 277
+                      277 804 21
                     </a>
                     <a
-                      href="tel:21804277"
+                      href="tel:27780421"
                       className="btn btn-outline-danger btn-sm text-start"
                     >
                       <i className="fas fa-phone me-2"></i>
-                      21804277
+                      277 804 21
                     </a>
                   </div>
                 </div>
@@ -168,9 +168,9 @@ export default function ContactPage() {
                 <div className="mb-4">
                   <h6 className="fw-bold mb-3">{t("orderNowBtn")}</h6>
                   <div className="d-grid gap-2">
-                    <a href="tel:21804277" className="btn btn-danger btn-lg">
+                    <a href="tel:27780421" className="btn btn-danger btn-lg">
                       <i className="fas fa-phone me-2"></i>
-                      {t("callUs")} - 21 804 277
+                      {t("callUs")} - 277 804 21
                     </a>
                     <a
                       href="https://tiktok.com/@mr.saltaa.kairouan"

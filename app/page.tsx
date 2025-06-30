@@ -96,7 +96,7 @@ export default function HomePage() {
 
               <div className="d-flex flex-wrap gap-3">
                 <a
-                  href="tel:21804277"
+                  href="tel:27780421"
                   className="btn btn-order btn-lg text-white"
                 >
                   <i className="fas fa-phone me-2"></i>
@@ -201,11 +201,11 @@ export default function HomePage() {
           <p className="lead mb-4">{t("callNowOrder")}</p>
           <div className="d-flex justify-content-center gap-3 flex-wrap">
             <a
-              href="tel:21804277"
+              href="tel:27780421"
               className="btn btn-light btn-lg text-danger fw-bold"
             >
               <i className="fas fa-phone me-2"></i>
-              21 804 277
+              277 804 21
             </a>
             <a
               href="https://tiktok.com/@mr.saltaa.kairouan"

@@ -17,10 +17,10 @@ export default function Footer() {
             <p className="mb-2">
               <i className="fas fa-phone text-danger me-2"></i>
               <a
-                href="tel:21804277"
+                href="tel:27780421"
                 className="text-light text-decoration-none"
               >
-                21 804 277
+                277 804 21
               </a>
             </p>
           </div>
